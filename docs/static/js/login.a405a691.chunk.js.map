@@ -1,1 +1,0 @@
-{"version":3,"sources":["views/Login/index.jsx"],"names":["memo","props"],"mappings":"0HAAA,2BAMeA,0BAJD,SAACC,GACb,OAAO","file":"static/js/login.a405a691.chunk.js","sourcesContent":["import React, { memo } from 'react'\n\nconst Login = (props) => {\n  return <div>login</div>\n}\n\nexport default memo(Login)\n"],"sourceRoot":""}
